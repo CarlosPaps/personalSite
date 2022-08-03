@@ -1,0 +1,13 @@
+html body {
+  margin: 0;
+  padding: 0;
+}
+
+.initialDiv {
+  background-color: #383431;
+  background-image: url(/img/myLogo.svg);
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  width: 100vw;
+}
